@@ -1,2 +1,1 @@
-# device_twrp_kj6
-Tecno Spark 20 Pro | Recovery tree (WIP)
+Device config for Tecno Spark 20 Pro (kj6)
