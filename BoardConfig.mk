@@ -14,3 +14,4 @@ TARGET_OTA_ASSERT_DEVICE := Tecno-KJ6
 
 # TWRP Configs
 TW_DEVICE_VERSION := KJ6_by_rama982_sora1504
+TW_LOAD_VENDOR_MODULES := "chipone-tddi.ko ft8006p-no-flash-common.ko"
