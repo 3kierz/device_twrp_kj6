@@ -13,5 +13,5 @@ include device/transsion/mt6789-common/BoardConfigCommon.mk
 TARGET_OTA_ASSERT_DEVICE := TECNO-KJ6
 
 # TWRP Configs
-TW_DEVICE_VERSION := rama982-sora-3kierz
+TW_DEVICE_VERSION := rama982-sora1504-3kierz
 TW_LOAD_VENDOR_MODULES := "chipone-tddi.ko ft8006p-no-flash-common.ko"
