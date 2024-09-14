@@ -13,8 +13,8 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 # Product Specifics
 PRODUCT_NAME := twrp_KJ6
 PRODUCT_DEVICE := KJ6
-PRODUCT_BRAND := Tecno
-PRODUCT_MODEL := Tecno KJ6
-PRODUCT_MANUFACTURER := tecno
+PRODUCT_BRAND := TECNO
+PRODUCT_MODEL := TECNO KJ6
+PRODUCT_MANUFACTURER := TECNO
 
 PRODUCT_GMS_CLIENTID_BASE := android-transsion
