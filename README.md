@@ -1,1 +1,1 @@
-Device config for Tecno Spark 20 Pro (kj6)
+Device Config for the Tecno SPARK 20 PRO (KJ6)
